@@ -3,7 +3,7 @@ import React from 'react'
 const Welcome = ()=>{
     return (
         <div className = "speech-bubble">
-            <p>Welcome to my Dojo</p>
+            <p> Welcome all ye who enter </p>
         </div>
     )
 }

@@ -11,12 +11,13 @@ const Projects = () =>{
                 <div class="col s12 m6">
                 <div class="card">
                     <div class="card-image">
-                    <img src = {require ('../images/Lituation.png')} alt = "Lituation"/>
-                    <a href="http://lituation.me/" class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">arrow_forward</i></a>
+                    <img src = "https://images.thestar.com/tXna-86LkO7aVrWKSh6ESUqkbP4=/1200x800/smart/filters:cb(2700061000)/https://www.thestar.com/content/dam/thestar/entertainment/2018/05/09/toronto-tattoo-artist-hopes-black-panther-pieces-instil-pride-dispel-myths/_1_blackpanthertattoos_2.jpg" alt = "Lituation"/>
+                    <a href="get-inked.netlify.app"class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">arrow_forward</i></a>
                     </div>
                     <div class="card-content">
-                        <span class="card-title">Lituation</span>
-                        <p>Social Mapping site allows user to see locations around them. Once a pin is dropped the "LitSpy" shows you all the lit places in town</p>
+                        <span class="card-title">Get Inked:</span>
+                        <p>This website is desinged to provided a tattoo locating service, with the help of Google apis.
+                            This website was inspired by the lack of a centerlaized tattoo shop locator. It is designed to help the customer find a tattoo idea as well as a shop to have the tattoo preformed.</p>
                         <h6>Technologies:</h6>
                         <ul>
                             <li>Google Maps API</li>
@@ -25,7 +26,6 @@ const Projects = () =>{
                             <li>CSS</li>
                             <li>Javascript</li>
                             <li>Firebase</li>
-                            <li>Cyberduck</li>
                         </ul>
                     </div>
                 </div>
@@ -36,18 +36,17 @@ const Projects = () =>{
                 <div class="col s12 m6">
                 <div class="card">
                     <div class="card-image">
-                    <img src = {require('../images/ChatRoom.png')} alt = "chat room"/>
-                    <a href="http://chatdc.herokuapp.com" class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">arrow_forward</i></a>
+                    <img src = "https://images.theconversation.com/files/224720/original/file-20180625-19382-16m5yrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" alt = "chat room"/>
+                    <a href=" https://sleepy-harbor-60617.herokuapp.com/" class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">arrow_forward</i></a>
                     </div>
                     <div class="card-content">
-                        <span class="card-title">Cha-Cha ChatRoom:</span>
-                        <p>Imagine the loudest places on earth. Welcome to the Cha-Cha Chatroom where anyone can sign up and join on massive chat.</p>
+                        <span class="card-title">Pig Skin Bets:</span>
+                        <p>Pig Skin Bets is an online sportsbook for people that are looking to make their Sundays a little more interesting.</p>
                         <h6>Technologies:</h6>
                         <ul>
                             <li>EJS</li>
                             <li>Express</li>
                             <li>Node</li>
-                            <li>Socket.io</li>
                             <li>MongoDB</li>
                             <li>Passport.js</li>
                             <li>Heroku</li>
@@ -62,15 +61,14 @@ const Projects = () =>{
                 <div class="col s12 m12">
                     <div class="card">
                         <div class="card-content">
-                            <span class="card-title">Star Wars Wiki-Verse</span>
+                            <span class="card-title">Best-Paired</span>
                             <p>
-                                Wiki Application highlights the all the characters, planets, and vehicle information within the starwars universe.
-                                I focused on React Router to access components that link to other resources within the application. 
+                                An applaction that allows you to pair drinks with food to help improve dinner experinces.
                             </p>
-                            <p>Technologies: React, Redux, Node, Express, SWAPI (Star Wars API)</p>
+                            <p>Technologies: React, Redux, Node </p>
                         </div>
                         <div class="card-action">
-                        <a class="waves-effect waves-light btn green" href = "https://github.com/jordanmateen/StarWarsWiki"><i class="material-icons left">developer_mode</i>See Code</a>
+                        <a class="waves-effect waves-light btn green" href = "https://github.com/Joe-dev13/best-paired"><i class="material-icons left">developer_mode</i>See Code</a>
                             
                         </div>
                     </div>
@@ -82,13 +80,13 @@ const Projects = () =>{
                 <div class="col s12 m12">
                     <div class="card">
                         <div class="card-content">
-                            <span class="card-title">Defintion Bee</span>
-                            <p>Light Weight full stack game built using React. This madularized application renders a random defintion and the users habe to correctly guess the associated word. 
-                                Designed with a RESTful backed server utilizing NPM technologies for models and endpoints. Fron-end state managed in Redux. </p>
+                            <span class="card-title">Certified</span>
+                            <p>In a world where we are clicking, swiping and liking is our normal and #hashtagging, mentions, and certified accounts deterimine popularity. Its also important to understand that technology is not only for our entertainment but for changing 
+                                the way we view life and interact with it.</p>
                             <p>Technologies: React, Redux, Node, Express, MongoDB, React Bootstrap</p>
                         </div>
                         <div class="card-action">
-                        <a class="waves-effect waves-light btn green" href = "https://github.com/jordanmateen/DefinitionBee"><i class="material-icons left">developer_mode</i>See Code</a>
+                        <a class="waves-effect waves-light btn green" href = "https://github.com/MatthewLee4/certified "><i class="material-icons left">developer_mode</i>See Code</a>
                             
                         </div>
                     </div>

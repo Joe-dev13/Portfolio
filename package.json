@@ -10,7 +10,7 @@
     "react-materialize": "^3.0.4",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "^4.0.3",
     "react-scrollspy-nav": "^1.2.1"
   },
   "scripts": {

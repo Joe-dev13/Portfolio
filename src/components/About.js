@@ -6,10 +6,8 @@ const AboutMe = ()=> {
         <div id="section_1" className = "container center">
             <h3><em>#TheBuilder's</em> Message</h3>
             <p>
-                My Name is Jordan Mateen. Im a bartender turned developer. I love mxing it up whether at the shop or in the console. Much like mixology building software 
-                provides a mix of creativity and technique that allows for a finished product to be something truly unique. I think technology brings the world together whether social or professional.
-                In a world where we are clicking, swiping and liking is our normal and #hashtagging, mentions, and certified accounts deterimine popularity. Its also important to understand that technology is not only for our entertainment but for changing 
-                the way we view life and interact with it. 
+                Hello my name is <i>Joseph Patrick Epherson</i>, I am working on improving my understanding and implementation of coding languages and frameworks. I think technology brings the world together whether social or professional.
+                I am curently working on building varius JavaSript and React projects.
 
             </p>
             <br/>

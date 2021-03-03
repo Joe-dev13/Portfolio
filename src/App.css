@@ -9,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #36827f;
   /* background-image : url('images/jordan2.jpeg'); */
   background-position: center;
   background-repeat: no-repeat;
@@ -24,14 +24,14 @@
 }
 
 .footer{
-  background-color: #282c34;
+  background-color: #36827f;
   min-height: 20vh;
   color: white
 }
 
 
 .App-link {
-  color: #61dafb;
+  color: #E8b4bc;
 }
 
 @keyframes App-logo-spin {
@@ -51,25 +51,25 @@
   position: relative;
   object-fit: cover;
   object-position: center right;
-  border: 5px solid  #282c34 ;
+  border: 5px solid  #765b74 ;
  
 }
 
 .nametag-div{
-  background-color: #ffffff;
-  color: black;
+  background-color: #03012c;
+  color: #E8b4bc;
   border-radius : 5%;
   margin-top : -90px;
   padding: 20px
 }
 
 .navbar {
-  background-color: #282c34;
+  background-color: #36827f;
 }
 
 .speech-bubble {
 	position: relative;
-	background: #00aabb;
+	background: #d282a6;
   border-radius: .4em;
   margin-bottom: -20.5px;
 }
@@ -82,7 +82,7 @@
 	width: 0;
 	height: 0;
 	border: 21px solid transparent;
-	border-top-color: #00aabb;
+	border-top-color: #d282a6;
 	border-bottom: 0;
 	border-left: 0;
 	margin-left: 25.5px;
@@ -90,5 +90,5 @@
 }
 
 .card-color{
-  background-color: #00aabb
+  background-color: #f9db6d
 }

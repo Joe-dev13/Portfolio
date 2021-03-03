@@ -8,8 +8,8 @@ const Footer =()=>{
             <h4>Contact</h4>
             <hr/>
             <ul>
-                <li>Phone: 404-771-8327</li>
-                <li>Email: jordan.mateen.dev@gmail.com</li>
+                <li>Phone: 678-507-4361</li>
+                <li>Email: joe.epherson@icloud.com</li>
             </ul>
             </div>
             
